@@ -5,14 +5,20 @@ p{
     padding: 0;
     border: border-box;
 }
-.BackgroudBody{
+body{
+    background: url("Konachan.com - 329155 sample.jpg") no-repeat center ;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+/* .BackgroudBody{
     border: 1px solid pink;
     height: 1080px;
     width: 1920px;
     background: url("Konachan.com - 329155 sample.jpg") no-repeat center;
     background-size: 1920px 1080px;
 
-}
+} */
 .Form{
 
     height: 500px;
